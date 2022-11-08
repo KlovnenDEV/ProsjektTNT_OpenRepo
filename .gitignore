@@ -1,4 +1,5 @@
 /.idea
+/server.cfg
 /cache
 /resources\[Vehicles]
 resources/\[Vehicles\]/assets_vehicles
